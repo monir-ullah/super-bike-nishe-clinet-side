@@ -1,0 +1,7 @@
+/* This is for form Submit color and sytle */
+.form-submit input {
+  display: block;
+  width: 100%;
+  margin-bottom: 1.5em;
+  border-radius: 0.5em;
+}

@@ -1,0 +1,18 @@
+/* This is for Main Header BackgroundPage */
+.main-header {
+  background-image: url('../../../Images/main-header-img.png');
+  height: 740px;
+}
+.header-info {
+  padding-top: 240px;
+}
+
+/* This is for Mobile Responsive only for 360 px */
+@media only screen and (max-width: 360px) {
+  .main-header {
+    height: 300px;
+  }
+  .header-info {
+    padding-top: 50px;
+  }
+}

@@ -1,0 +1,34 @@
+/* This section is use for Page Not Found page's Button. */
+.button-to-home {
+  background-color: #198754;
+  padding: 10px 20px;
+}
+/* This is button hover */
+.button-to-home:hover {
+  background-color: #016b39;
+  padding: 10px 20px;
+}
+/* This is use for changing button color and style */
+.button-to-home a {
+  color: white;
+  text-decoration: none;
+}
+
+/* This code use for PangeNotFOund page . Screan will be (410) */
+@media screen and (min-device-width: 410px) {
+  /* THis is for home button */
+  .button-to-home {
+    margin: -86px 0px 0px 106px;
+  }
+  /* This is for not-found-img */
+  .not-found-404 img {
+    margin-top: 50px;
+  }
+}
+/* This code use for PangeNotFOund page . Screan will be (700) */
+@media screen and (min-device-width: 700px) {
+  /* This is for go back to home button */
+  .button-to-home {
+    margin: -269px 0px 30px 900px;
+  }
+}

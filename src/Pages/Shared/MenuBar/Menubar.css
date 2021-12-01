@@ -1,0 +1,7 @@
+/* This is for the manubar section */
+.nav-link a {
+  color: white;
+  text-decoration: none;
+  margin-left: 0.7em;
+  margin-top: 0.5em;
+}

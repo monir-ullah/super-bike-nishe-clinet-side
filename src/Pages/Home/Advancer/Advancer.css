@@ -1,0 +1,9 @@
+/* This is for Mobile Responsive only for 360 px */
+@media only screen and (max-width: 360px) {
+  .img-margin {
+    margin-right: 0px !important;
+  }
+  .display-none {
+    display: none;
+  }
+}

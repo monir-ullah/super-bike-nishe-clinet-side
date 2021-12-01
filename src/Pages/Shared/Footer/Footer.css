@@ -1,0 +1,24 @@
+/* THis is for footer section */
+.footer-menu {
+  background-color: #222222;
+  color: white;
+}
+/* THis is for news letter */
+.newsleller {
+  background-color: #198754;
+  position: absolute;
+  margin-top: -27px;
+  margin: -126px auto;
+  width: 64%;
+}
+/* This is for Mobile Responsive only for 360 px */
+@media only screen and (max-width: 360px) {
+  .newsleller {
+    margin-top: -27px;
+    margin: -126px auto;
+    width: 91%;
+  }
+  .responsive-footer {
+    margin-top: 230px;
+  }
+}
